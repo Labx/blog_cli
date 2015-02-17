@@ -1,0 +1,12 @@
+# Site settings
+title: les ateliers CLI
+email: ateliers_cli@labx.fr
+description: > # this means to ignore newlines until "baseurl:"
+ les ateliers CLI nous permettent de prendre du temps pour utiliser la lignes de commandes
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cli.labx.fr" # the base hostname & protocol for your site
+twitter_username: ~
+github_username:  Labx/cli-labx
+
+# Build settings
+markdown: kramdown
